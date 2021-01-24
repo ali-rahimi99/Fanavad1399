@@ -1,6 +1,13 @@
 # FANAVARD 3.11.99
 
 
+# Team Name = AUT FAN
+
+# Team Member
+# َAli Rahimi
+# Hamid Parto Alam
+# Sina Hasan lou
+
 # number of objects
 n = int(input('Enter number of objects = '))
 
